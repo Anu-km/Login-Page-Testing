@@ -1,4 +1,4 @@
-# 🔐 Login Page Testing Project
+# 🔐 Login Page Testing
 
 A complete manual testing project for validating Login Page functionality using positive, negative, and edge test scenarios.
 
