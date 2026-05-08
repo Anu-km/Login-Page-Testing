@@ -5,8 +5,7 @@ A complete manual testing project for validating Login Page functionality using 
 ---
 
 ## 🖼️ Project Screenshot
-
-![Login Page Testing](login-testing.png)
+![Login Page Testing](file_00000000b0e47208b8f8e9d9aab82f33.png)
 
 ---
 
