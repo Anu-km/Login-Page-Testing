@@ -46,4 +46,4 @@ A complete manual testing project for validating Login Page functionality using 
 
 ## 👨‍💻 Author
 
-**Vicky Kumar**# Login-Page-Testing
+**Vicky Kumar**
